@@ -16,7 +16,7 @@ Each project is chosen to feed forward into real interests: motorsport/FSAE data
 
 ## Ground Rules
 
-1. **No Googling for syntax/concept doubts.** Work through them with Claude using the Socratic method : guided questioning, not direct answers. The struggle is the crux of the learning.
+1. **No Googling for syntax/concept doubts.** Work through them with Claude using the Socratic method (https://github.com/malkreide/socratic-method-skill) : guided questioning, not direct answers. The struggle is the crux of the learning.
 2. **Finish a project before starting the next.** No jumping ahead.
 3. **After "finishing" each project, add one unplanned feature.** This forces a return to the problem-solving mindset after the "core" implementation feels done.
 
